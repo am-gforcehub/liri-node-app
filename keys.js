@@ -16,3 +16,7 @@ exports.spotify = {
 exports.bands = {
     key: process.env.BANDS_KEY,
 };
+
+exports.movies = {
+    key: process.env.MOVIE_KEY,
+};
