@@ -19,12 +19,9 @@ The following commands and the functions of these are noted below.
 
 Commands | Function
 ---------|---------
-concert-this | uses the **bandsintown** API to take a band name from the user and returns the following:
--**Artist** -**Venue** -**Venue Location** -**Date and Time**
-spotify-this-song | uses the **spotify** API to take a song name from the user and returns the five best matches that includes the  following:
--**Artist(s)** -**Song Name** -**Preview Song** -**Album**
-movie-this | uses the **OMDB** API to take a movie name and returns the following:
--**Movie Title** -**Release Year** -**Rotten Tomato Rating** -**IMDb Rating** -**Country** -**Language** -**Plot** -**Lead Actors**
+concert-this | uses the **bandsintown** API to take a band name from the user and returns the following:-**Artist** -**Venue** -**Venue Location** -**Date and Time**
+spotify-this-song | uses the **spotify** API to take a song name from the user and returns the five best matches that includes the  following-**Artist(s)** -**Song Name** -**Preview Song** -**Album**
+movie-this | uses the **OMDB** API to take a movie name and returns the following:-**Movie Title** -**Release Year** -**Rotten Tomato Rating** -**IMDb Rating** -**Country** -**Language** -**Plot** -**Lead Actors**
 do-what-it-says | uses the built in **readFile()** method to access data from a prepopulated .txt file and return its information as a command/search query.  This uses the spotSong() to return the song "I want it that way"
 
 **Before you get started, make sure you have these node packages installed:**
