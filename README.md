@@ -8,7 +8,7 @@ Get link to LIRI-bot instructions [here](https://docs.google.com/document/d/1rhu
 - **Built With** Node.js, Javascript
 - **APIs** OMDB, Spotify, Bandsintown
 
----
+--
 
 ### Description & Requirements
 ---
@@ -44,7 +44,11 @@ do-what-it-says | uses the built in **readFile()** method to access data from a 
 
 Read more about these methods [here](https://www.npmjs.com/)
 
-###Functionality
+--
+
+### Functionality
+
+---
 
 - **Demo**
-See a full demo on the functionality of the app [here!](https://drive.google.com/file/)
+See a full demo on the functionality of the app [here!](https://drive.google.com/file/d/1z7DzDdlcmrWZXms2Sa-AfJbD5bXFP6_T/view/)
