@@ -2,14 +2,13 @@
 
 Get link to LIRI-bot instructions [here](https://docs.google.com/document/d/1rhu3warj2LbRX3HtTd2IvzvEo8DPfa_Td5Vdcqm6uAs/edit?usp=sharing/)
 
----
 - **For:** Southern Methodist University Coding Bootcamp
 - **Developer:** Alicia Garcia
 - **Deployment Date** 05/11/2019
 - **Built With** Node.js, Javascript
 - **APIs** OMDB, Spotify, Bandsintown
 
-
+---
 
 ### Description & Requirements
 ---
