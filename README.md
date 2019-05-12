@@ -51,4 +51,4 @@ Read more about these methods [here](https://www.npmjs.com/)
 ---
 
 - **Demo**
-See a full demo on the functionality of the app [here!](https://drive.google.com/file/d/1z7DzDdlcmrWZXms2Sa-AfJbD5bXFP6_T/view/)
+See a full demo on the functionality of the app [here!](https://drive.google.com/file/d/1z7DzDdlcmrWZXms2Sa-AfJbD5bXFP6_T/view)
